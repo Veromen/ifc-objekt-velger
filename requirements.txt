@@ -1,7 +1,7 @@
 setuptools
 streamlit
 lxml==4.9.1
-numpy==1.22.0
+numpy==1.21.0
 regex==2021.4.4
 xmlschema==1.6.4
-ifcopenshell
+ifcopenshell==0.8.0
