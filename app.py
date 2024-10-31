@@ -1,7 +1,7 @@
 import ifcopenshell
 #import ifcopenshell.api
-#import ifcopenshell.guid
-#import ifcopenshell.util.selector
+import ifcopenshell.guid
+import ifcopenshell.util.selector
 from typing import Union
 import streamlit as st
 import tempfile
