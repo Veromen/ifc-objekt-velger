@@ -1,6 +1,5 @@
 streamlit
 lxml==4.9.3
-numpy==1.22.0
 regex==2021.4.4
 xmlschema==1.6.4
 ifcopenshell
