@@ -1,4 +1,5 @@
 streamlit
+lark-parser
 lxml==4.9.3
 regex==2021.4.4
 xmlschema==1.6.4
